@@ -1,2 +1,2 @@
-# -huohuosheiya.github.io
+# huohuosheiya.github.io
 huo_blog
